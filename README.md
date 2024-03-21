@@ -1,3 +1,5 @@
 # bootcampnextjs
 Nextjs
-ok
+
+create nextjs project: 
+npx create-next-app@latest
